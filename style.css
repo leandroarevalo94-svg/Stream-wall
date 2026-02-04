@@ -25,7 +25,7 @@ h1 {
   box-sizing: border-box;
 
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
 }
 
 iframe {
